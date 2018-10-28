@@ -1,0 +1,1 @@
+worker: python urlshort_bot.py
