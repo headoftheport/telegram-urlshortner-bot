@@ -11,7 +11,7 @@ def shortenURL(urlToShorten):
     }),
     headers={
         "Content-type": "application/json",
-        "apikey": "757c6ef86662435caef94a24f6b41256"
+        "apikey": "your-api-key"
     })
 
     if (r.status_code == requests.codes.ok):
